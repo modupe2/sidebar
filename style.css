@@ -84,3 +84,7 @@ button {
 .none {
     display: none;
 }
+
+#span {
+    font-size: 10px;
+}
